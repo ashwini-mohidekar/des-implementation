@@ -10,7 +10,6 @@ This repository contains a step-by-step implementation of the Data Encryption St
 
 ## Files
 - DES_Implementation.ipynb – main notebook
-- DES_Implementation.pdf – exported version
 
 ## Concepts Covered
 - Permutation and substitution
